@@ -42,7 +42,11 @@ app.get('/', (req, res) => {
 });
 
 app.post('/upload', upload.single('image'), (req, res) => {
-    res.send('Image uploaded successfully');
+  if (!req.file) {
+    return res.status(400).send('No file uploaded');
+  }else{
+    console.log('File uploaded successfully:', req.file.filename);
+  }
 });
 
 app.get('/view', (req, res) => {
