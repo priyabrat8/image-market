@@ -9,6 +9,7 @@
   "author": "Priyabrat Swain",
   "license": "ISC",
   "dependencies": {
+    "@azure/storage-blob": "^12.27.0",
     "dotenv": "^17.0.0",
     "express": "^5.1.0",
     "hbs": "^4.2.0",
