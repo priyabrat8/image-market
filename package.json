@@ -4,6 +4,7 @@
   "description": "Website to upload images",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "nodemon index.js"
   },
   "author": "Priyabrat Swain",
