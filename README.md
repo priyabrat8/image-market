@@ -3,7 +3,7 @@
 ---
 ![Alt text](https://github.com/priyabrat8/image-market/blob/master/demo1.png?raw=true "Demo")
 
-![Alt text](https://github.com/priyabrat8/image-market/blob/azure-blob-storage/demo2.pn?raw=true "Demo")
+![Alt text](https://github.com/priyabrat8/image-market/blob/master/demo2.png?raw=true "Demo")
 
 ---
 
